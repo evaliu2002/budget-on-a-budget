@@ -1,7 +1,7 @@
 # Budget on a Budget
 We Hate Budget Apps That Cost Money So We Made One That Doesn't. True Budgeting on a Budget
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)<br><br>
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)<br>
 
 ### Project Idea/Goal
 Budget on a Budget will be a mobile app that allows users to track their spending.
