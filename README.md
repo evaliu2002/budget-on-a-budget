@@ -1,4 +1,4 @@
-# budget-on-a-budget
+# Budget on a Budget
 We Hate Budget Apps That Cost Money So We Made One That Doesn't. True Budgeting on a Budget
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)<br><br>
